@@ -57,9 +57,6 @@ This playground features a curated collection of advanced micro-interactions, ea
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
