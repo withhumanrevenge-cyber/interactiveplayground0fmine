@@ -60,4 +60,4 @@ This playground features a curated collection of advanced micro-interactions, ea
 
 ---
 
-Crafted with ❤️ for the design-engineering community.
+Crafted with ❤️ for the design-engineering community..
